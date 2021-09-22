@@ -1,0 +1,14 @@
+com/cursoreactnative/MainActivity.java
+ com.cursoreactnative.MainActivity
+com/cursoreactnative/ReactNativeFlipper.java
+ com.cursoreactnative.ReactNativeFlipper
+ com.cursoreactnative.ReactNativeFlipper$1
+ com.cursoreactnative.ReactNativeFlipper$2
+ com.cursoreactnative.ReactNativeFlipper$2$1
+com/cursoreactnative/BuildConfig.java
+ com.cursoreactnative.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/cursoreactnative/MainApplication.java
+ com.cursoreactnative.MainApplication
+ com.cursoreactnative.MainApplication$1
